@@ -1,0 +1,14 @@
+Bill of materials:
+
+6x			OF-SMD 3528 W LED			https://www.hestore.hu/prod_10026493.html
+1x			KS-31 OFF-ON				https://www.hestore.hu/prod_10021998.html
+15x			R13-507A-R					https://www.hestore.hu/prod_10028248.html
+2x			TSP101AA1 ON-OFF			https://www.hestore.hu/prod_10035623.html
+1x 			R1710A TWH					https://www.hestore.hu/prod_10032335.html
+2x			ZL211-20KG (WWS20A)			https://www.hestore.hu/prod_10024170.html
+1x			363.8 PULT (216×130×77)		https://www.hestore.hu/prod_10024955.html
+1x			CP30111						https://www.hestore.hu/prod_10036124.html
+1x			USB A/MICRO USB-B			https://www.hestore.hu/prod_10034004.html
+1x			Arduino Leonardo			https://store.arduino.cc/arduino-leonardo-with-headers
+a lot of 	Jumper wires
+a lot of 	Wires for the buttons
