@@ -6,4 +6,4 @@ Components:<br>
 -BOM<br>
 -Autocad design (dwg) for the top of the box<br>
 <br>
-#!!! Need to redesign! Missing pull-up resistors! !!!
+# !!! Need to redesign! Missing pull-up resistors! !!!
